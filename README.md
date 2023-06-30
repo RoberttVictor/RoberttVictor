@@ -2,8 +2,8 @@
 
 
 - Estou aprendendo atualmente **JDK**
-- Estou procurando colaborar em **Projetos Java**-
-- Pergunte-me sobre **JDK**-
+- Estou procurando colaborar em **Projetos Java**
+- Pergunte-me sobre **JDK**
 - Como chegar até mim **robert.victor61@gmail.com**
 
 
