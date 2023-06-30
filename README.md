@@ -1,7 +1,10 @@
 <h1 align="center">Oi 👋 , eu sou Robert Victor</h1><h3 align="center">Estudando e codificando em Java</h3>
 
 
-- Estou aprendendo atualmente **JDK**- Estou procurando colaborar em **Projetos Java**- Pergunte-me sobre **JDK**- Como chegar até mim **robert.victor61@gmail.com**
+- Estou aprendendo atualmente **JDK**
+- Estou procurando colaborar em **Projetos Java**
+- Pergunte-me sobre **JDK**
+- Como chegar até mim **robert.victor61@gmail.com**
 
 
 
